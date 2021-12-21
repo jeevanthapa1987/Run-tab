@@ -11,3 +11,11 @@ git checkout develop
 git merge feature/contact-form
 
 git push origin develop
+
+.intro p {
+  line-height: 1.7;
+  color: #39a6b2;
+  width: 80%;
+  font-size: 20px;
+  margin: 0 auto;
+}
